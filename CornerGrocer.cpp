@@ -143,22 +143,10 @@ int callIntFunc(std::string proc, int param)
 
 	return _PyLong_AsInt(presult);
 }
-// ============================================================= //end supplied code
-//
-//
-//
-//
-//
-//
-//
-//
-// 
-// 
-// 
-// 
-// 
-// 
-// ========================= student work is below =================================
+
+
+
+
 
 
 
